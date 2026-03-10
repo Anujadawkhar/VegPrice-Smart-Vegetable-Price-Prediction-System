@@ -1,0 +1,24 @@
+# VegPrice – Smart Vegetable Price Prediction System
+
+VegPrice is a backend-focused project where a Java Spring Boot application integrates with a Python FastAPI ML service to predict vegetable prices based on season and demand.
+The goal of this project is to understand real-world backend + ML integration, REST API communication, and service-based architecture.
+
+🚀 Tech Stack
+Java – Spring Boot (Main backend & business logic)
+Python – FastAPI (ML model service)
+Machine Learning – Scikit-learn
+Database – MongoDB
+Communication – REST APIs (JSON)
+
+🧠 Features
+Dynamic vegetable price prediction
+Season & demand-based pricing
+Java ↔ Python service integration
+Clean DTO-based API communication
+Beginner-friendly microservice approach
+
+📸 Demo & Results
+This are under Demo folder
+
+📌 Note
+This project is currently under active development, so you may notice some extra or experimental feature files as I continue learning and improving the system.
